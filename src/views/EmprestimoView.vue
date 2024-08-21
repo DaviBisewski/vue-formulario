@@ -111,11 +111,11 @@
   }
   
   .receipt button {
-    background-color: #4CAF50;
+    background-color: #e91e63;
   }
   
   .receipt button:hover {
-    background-color: #45a049;
+    background-color: #e91e63;
   }
   </style>
   
